@@ -1,3 +1,16 @@
+# Site settings
+title:          H. T. Demmer
+description:    "H. T. Demmer"
+baseurl:        "/site"
+url:            "https://htdemmer.github.io"
+
+# Author
+author:
+  name:         H. T. Demmer
+  url:          https://htdemmer.com
+  email:        htdemmer@gmail.com
+
+
 remote_theme: chesterhow/tale
 
 permalink:    /:year-:month-:day/:title
